@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testNG suite">
+   <test name="class Level">
+      <classes>
+         <class name="users.UserMethods"></class>
+         <class name="customers.CustomerMethods"></class>
+      </classes>
+   </test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test cases">
+  <test name="Assigmet1 and Assigmet2 and Assigmet3 and Assigmet4 and Assigmet5 and Assigmet6 and Assigmet7">
+    <classes>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet1"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet2"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet3"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet4"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet5"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet6"/>
+       <class name="com.sgtestig.testAssigmet.suite.Assigmet7"/>
+       
+    </classes>
+  </test>
+</suite>
